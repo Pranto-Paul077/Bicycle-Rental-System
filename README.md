@@ -3,5 +3,6 @@ The Bicycle Rental System is a comprehensive platform designed to provide users 
 # Author:
 
 1. Pranto Paul
-2.Saiful Islam
-3. MM Rafsanjani Showrav
+2. Saiful Islam
+3. MM RafsanJani Showrav
+
